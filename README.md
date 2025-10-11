@@ -1,6 +1,6 @@
 ## Hi, I'm Muneef 👋
 
-👨‍💻 Computer science student with a passion for innovation<br/>
+👨‍💻 Computer scienctist with a passion for innovation<br/>
 🤖 Experienced in AI & machine learning projects<br/>
 🧠 5+ years of programming experience<br/>
 🚀 Built real-world projects<br/>
