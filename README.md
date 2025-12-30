@@ -1,7 +1,7 @@
 ## Hi, I'm Muneef 👋
 
-👨‍💻 Computer scientist with a passion for innovation<br/>
-🤖 Experienced in AI & machine learning projects<br/>
+👨‍💻 Software Developer with a passion for innovation<br/>
+🤖 Experienced in AI & Web Applications<br/>
 🧠 5+ years of programming experience<br/>
 🚀 Built real-world projects<br/>
 🌍 Tech for good enthusiast<br/>
